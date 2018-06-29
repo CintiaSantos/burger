@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+#burger_img {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    width: 30%;
+    height: 30%;
+}
